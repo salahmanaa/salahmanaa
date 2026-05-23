@@ -94,7 +94,6 @@ I'm a **4th-year Computer Science & Networks engineering student** at EMSI Tange
   <a href="https://hadoop.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
 </p>
----
  
 ## 💼 Experience
  
