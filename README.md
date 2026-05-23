@@ -96,18 +96,7 @@ I'm a **4th-year Computer Science & Networks engineering student** at EMSI Tange
 > Developed an advanced **Analytics module** — a user tracking system for an e-learning platform.
  
 ---
- 
-## 📊 GitHub Stats
- 
-<div align="center">
-![Salaheddine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salahmanaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salahmanaa&layout=compact&theme=tokyonight&hide_border=true)
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=salahmanaa&theme=tokyonight&hide_border=true)
- 
-</div>
----
+
  
 ## 📬 Let's Connect
  
