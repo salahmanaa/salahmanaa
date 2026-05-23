@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Salaheddine Manaa</h1>
 <h3 align="center">I am a engineering student at EMSI Tanger. I am interested in software development, systems, databases, and emerging technologies. I have worked on several web, mobile, and data analysis projects, which has allowed me to strengthen my technical skills, rigor, and ability to manage a project from concept to implementation. I enjoy learning, experimenting, and improving the quality of my work through modern tools and structured methods.</h3>
 
