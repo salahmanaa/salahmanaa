@@ -109,6 +109,6 @@ I'm always open to collaborating on interesting projects, discussing tech, or ex
 > 💌 **salahmanaa59@gmail.com** · 🌐 [Portfolio](https://salahmanaa.github.io/portfolio/) · 💼 [LinkedIn](https://linkedin.com/in/salaheddine-manaa)
  
 <div align="center">
-*"Learning never exhausts the mind." – Leonardo da Vinci*
+
  
 </div>
